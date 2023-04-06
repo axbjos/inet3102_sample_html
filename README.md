@@ -1,2 +1,5 @@
-# inet3102_sample_html
+# INET3102 Web Infrastructure
+
+Sample HTML Files
+
 Just some sample HTML code.
